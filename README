@@ -1,0 +1,4 @@
+Reddit Wordcloud
+Install all packages listed at the top of the script
+Ultimately, this program creates a WordCloud based off of a certain subreddit, number of posts, and ranking method of the posts 
+Allows for easy visualization of trending and/or important topics in each subcommunity

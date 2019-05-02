@@ -2,3 +2,8 @@ Reddit Wordcloud
 Install all packages listed at the top of the script
 Ultimately, this program creates a WordCloud based off of a certain subreddit, number of posts, and ranking method of the posts 
 Allows for easy visualization of trending and/or important topics in each subcommunity
+I would have loved to use git in its full effect; I tried multiple methods of installing including Homebrew,
+git package installment, and command line tools but nothing worked. 
+
+Before this project, I had no idea that there was so much community support for programming languages. I appreciate the open-source 
+community that has given so much to independent users wanting to do cool things with code; this has definitely been the coolest thing I've made.
